@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "title": "Gladiator",
+    "type": "Movie",
+    "season": "NA",
+    "episode": "NA",
+    "genre": "Drama",
+    "sub_genre": "Action",
+    "year": 2004,
+    "cast": "Russel Crowe",
+    "directed_by": "Ridley Scott",
+    "synopsis_1": "Set in Roman times, the story of a once-powerful general forced to become a common gladiator. ",
+    "synopsis_2": "Set in Roman times, the story of a once-powerful general forced to become a common gladiator. ",
+    "synopsis_3": "Set in Roman times, the story of a once-powerful general forced to become a common gladiator. ",
+    "audio_1": "English",
+    "audio_2": "Spanish",
+    "audio_3": "French",
+    "subtitle_1": "English",
+    "subtitle_2": "Spanish",
+    "subtitle_3": "French",
+    "video_url": "www.youtube.com",
+    "capsule_data": [
+    {
+        "name": "capsule A",
+        "time": "2:00-5:00"
+    },
+    {
+        "name": "capsule B",
+        "time": "2:00-5:00"
+    },
+    {
+        "name": "capsule C",
+        "time": "2:00-5:00"
+    }]
+}
