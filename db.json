@@ -2,20 +2,20 @@
   "employees": [
     {
       "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
+      "name": "Sebastian",
+      "username": "Eschweiler",
       "email": "sebastian@codingthesmartway.com"
     },
     {
       "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
+      "name": "Steve",
+      "username": "Palmer",
       "email": "steve@codingthesmartway.com"
     },
     {
       "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
+      "name": "Ann",
+      "username": "Smith",
       "email": "ann@codingthesmartway.com"
     }
   ]
